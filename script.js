@@ -5,9 +5,9 @@ const expireTimeStr = "23:59:59";
 
 const coupons = [
 //TODO: 1.쿠폰.gif 변경/
-  { img: "https://github.com/championsiheung/coupon_test/blob/main/KakaoTalk_Photo_2025-07-25-01-16-17%20002.gif?raw=true" },
+  { img: "https://github.com/championsiheung/A10pctWday/blob/main/%E1%84%87%E1%85%A9%E1%84%92%E1%85%A9%E1%84%8C%E1%85%A110%25%E1%84%8C%E1%85%AE%E1%84%86%E1%85%A1%E1%86%AF.gif?raw=true" },
 //TODO: 2.유효만료.gif 변경/
-  { img: "https://github.com/championsiheung/coupon_test/blob/main/KakaoTalk_Photo_2025-07-25-01-16-17%20001.gif?raw=true" }
+  { img: "https://github.com/championsiheung/coupon30/blob/main/%E1%84%80%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AB%E1%84%85%E1%85%AD1gif.gif?raw=true" }
 ];
 
 const container = document.getElementById('coupons-container');
